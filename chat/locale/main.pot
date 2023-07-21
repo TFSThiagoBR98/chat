@@ -1,0 +1,488 @@
+# Translations template for Frappe Chat.
+# Copyright (C) 2023 Frappe Technologies
+# This file is distributed under the same license as the Frappe Chat
+# project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Frappe Chat VERSION\n"
+"Report-Msgid-Bugs-To: developers@frappe.io\n"
+"POT-Creation-Date: 2023-07-17 20:16+0000\n"
+"PO-Revision-Date: 2023-07-17 20:16+0000\n"
+"Last-Translator: developers@frappe.io\n"
+"Language-Team: developers@frappe.io\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#. DocType: Chat Settings:1
+msgid "Allowed Roles"
+msgstr ""
+
+#. Label of a Table field in DocType 'Chat Settings'
+#: frappe_chat/doctype/chat_settings/chat_settings.json
+msgctxt "Chat Settings"
+msgid "Allowed Roles"
+msgstr ""
+
+#: public/js/components/chat_welcome_screen.js:25
+msgid "Ask us anything, or share your feedback."
+msgstr ""
+
+#. Name of a DocType
+#. DocType: Chat Message:1
+#: frappe_chat/doctype/chat_message/chat_message.json
+msgid "Chat Message"
+msgstr ""
+
+#. DocType: Chat Settings:1
+msgid "Chat Operators"
+msgstr ""
+
+#. Label of a Table MultiSelect field in DocType 'Chat Settings'
+#: frappe_chat/doctype/chat_settings/chat_settings.json
+msgctxt "Chat Settings"
+msgid "Chat Operators"
+msgstr ""
+
+#. Name of a DocType
+#. DocType: Chat Profile:1
+#: frappe_chat/doctype/chat_profile/chat_profile.json
+msgid "Chat Profile"
+msgstr ""
+
+#. Name of a DocType
+#. DocType: Chat Room:1
+#: frappe_chat/doctype/chat_room/chat_room.json
+msgid "Chat Room"
+msgstr ""
+
+#. Name of a DocType
+#. DocType: Chat Room User:1
+#: frappe_chat/doctype/chat_room_user/chat_room_user.json
+msgid "Chat Room User"
+msgstr ""
+
+#. Name of a DocType
+#. DocType: Chat Settings:1
+#: frappe_chat/doctype/chat_settings/chat_settings.json
+msgid "Chat Settings"
+msgstr ""
+
+#. Name of a DocType
+#. DocType: Chat User Settings:1
+#: frappe_chat/doctype/chat_user_settings/chat_user_settings.json
+msgid "Chat User Settings"
+msgstr ""
+
+#: public/js/components/chat_bubble.js:11
+msgid "Chat With Us"
+msgstr ""
+
+#: public/js/components/chat_list.js:27
+msgid "Chats"
+msgstr ""
+
+#: public/js/components/chat_bubble.js:12
+msgid "Close Chat"
+msgstr ""
+
+#. DocType: Chat Message:1
+msgid "Content"
+msgstr ""
+
+#. Label of a Text field in DocType 'Chat Message'
+#: frappe_chat/doctype/chat_message/chat_message.json
+msgctxt "Chat Message"
+msgid "Content"
+msgstr ""
+
+#: public/js/components/chat_add_room.js:58
+msgid "Create"
+msgstr ""
+
+#. DocType: Chat Room:1
+msgid "Direct"
+msgstr ""
+
+#. Option for a Select field in DocType 'Chat Room'
+#: frappe_chat/doctype/chat_room/chat_room.json
+msgctxt "Chat Room"
+msgid "Direct"
+msgstr ""
+
+#: api/room.py:68
+msgid "Direct Room already exists!"
+msgstr ""
+
+#. DocType: Chat Profile:1
+msgid "Email"
+msgstr ""
+
+#. Label of a Data field in DocType 'Chat Profile'
+#: frappe_chat/doctype/chat_profile/chat_profile.json
+msgctxt "Chat Profile"
+msgid "Email"
+msgstr ""
+
+#: public/js/components/chat_form.js:46
+msgid "Email Address"
+msgstr ""
+
+#. DocType: Chat Settings:1
+msgid "Enable Chat"
+msgstr ""
+
+#. Label of a Check field in DocType 'Chat Settings'
+#: frappe_chat/doctype/chat_settings/chat_settings.json
+msgctxt "Chat Settings"
+msgid "Enable Chat"
+msgstr ""
+
+#. DocType: Chat User Settings:1
+#: public/js/components/chat_user_settings.js:13
+msgid "Enable Message Tone"
+msgstr ""
+
+#. Label of a Check field in DocType 'Chat User Settings'
+#: frappe_chat/doctype/chat_user_settings/chat_user_settings.json
+msgctxt "Chat User Settings"
+msgid "Enable Message Tone"
+msgstr ""
+
+#. DocType: Chat User Settings:1
+#: public/js/components/chat_user_settings.js:19
+msgid "Enable Notifications"
+msgstr ""
+
+#. Label of a Check field in DocType 'Chat User Settings'
+#: frappe_chat/doctype/chat_user_settings/chat_user_settings.json
+msgctxt "Chat User Settings"
+msgid "Enable Notifications"
+msgstr ""
+
+#. DocType: Chat Settings:1
+msgid "End Time"
+msgstr ""
+
+#. Label of a Time field in DocType 'Chat Settings'
+#: frappe_chat/doctype/chat_settings/chat_settings.json
+msgctxt "Chat Settings"
+msgid "End Time"
+msgstr ""
+
+#: public/js/components/chat_list.js:68 public/js/components/chat_space.js:70
+#: public/js/components/chat_utils.js:83
+msgid "Error"
+msgstr ""
+
+#: public/js/components/chat_space.js:200
+msgid "File upload failed!"
+msgstr ""
+
+#. DocType: Chat Message:1
+#: config/desktop.py:10
+msgid "Frappe Chat"
+msgstr ""
+
+#: public/js/components/chat_form.js:41
+msgid "Full Name"
+msgstr ""
+
+#: api/user.py:12
+msgid "Full Name is required"
+msgstr ""
+
+#: public/js/components/chat_space.js:41
+msgid "Go Back"
+msgstr ""
+
+#. DocType: Chat Room:1
+msgid "Group"
+msgstr ""
+
+#. Option for a Select field in DocType 'Chat Room'
+#: frappe_chat/doctype/chat_room/chat_room.json
+msgctxt "Chat Room"
+msgid "Group"
+msgstr ""
+
+#. DocType: Chat Room:1
+msgid "Guest"
+msgstr ""
+
+#. Label of a Link field in DocType 'Chat Room'
+#. Option for a Select field in DocType 'Chat Room'
+#: frappe_chat/doctype/chat_room/chat_room.json
+msgctxt "Chat Room"
+msgid "Guest"
+msgstr ""
+
+#. DocType: Chat Profile:1
+msgid "Guest Name"
+msgstr ""
+
+#. Label of a Data field in DocType 'Chat Profile'
+#: frappe_chat/doctype/chat_profile/chat_profile.json
+msgctxt "Chat Profile"
+msgid "Guest Name"
+msgstr ""
+
+#. DocType: Chat Profile:1
+msgid "Guest users for chat rooms."
+msgstr ""
+
+#: public/js/components/chat_welcome_screen.js:22
+msgid "Hi there ! 🙌🏼"
+msgstr ""
+
+#: public/js/components/chat_space.js:183
+msgid "Internal Server Error"
+msgstr ""
+
+#. DocType: Chat Profile:1
+msgid "Ip Address"
+msgstr ""
+
+#. Label of a Data field in DocType 'Chat Profile'
+#: frappe_chat/doctype/chat_profile/chat_profile.json
+msgctxt "Chat Profile"
+msgid "Ip Address"
+msgstr ""
+
+#. DocType: Chat Room:1
+msgid "Is Read"
+msgstr ""
+
+#. Label of a Text field in DocType 'Chat Room'
+#: frappe_chat/doctype/chat_room/chat_room.json
+msgctxt "Chat Room"
+msgid "Is Read"
+msgstr ""
+
+#: public/js/components/chat_welcome_screen.js:38
+msgid "Just drop a message and we will get back to you soon"
+msgstr ""
+
+#. DocType: Chat Room:1
+msgid "Last Message"
+msgstr ""
+
+#. Label of a Data field in DocType 'Chat Room'
+#: frappe_chat/doctype/chat_room/chat_room.json
+msgctxt "Chat Room"
+msgid "Last Message"
+msgstr ""
+
+#. DocType: Chat Room:1
+msgid "Members"
+msgstr ""
+
+#. Label of a Text field in DocType 'Chat Room'
+#: frappe_chat/doctype/chat_room/chat_room.json
+msgctxt "Chat Room"
+msgid "Members"
+msgstr ""
+
+#: public/js/components/chat_form.js:51
+msgid "Message"
+msgstr ""
+
+#: api/user.py:14
+msgid "Message is too short"
+msgstr ""
+
+#: public/js/components/chat_user_settings.js:10
+msgid "My Settings"
+msgstr ""
+
+#: public/js/components/chat_add_room.js:16
+msgid "New Chat Room"
+msgstr ""
+
+#: public/js/components/chat_form.js:48
+msgid "Please enter your email"
+msgstr ""
+
+#: public/js/components/chat_form.js:43
+msgid "Please enter your full name"
+msgstr ""
+
+#: public/js/components/chat_form.js:53
+msgid "Please enter your message"
+msgstr ""
+
+#. DocType: Chat Message:1
+msgid "Room"
+msgstr ""
+
+#. Label of a Link field in DocType 'Chat Message'
+#: frappe_chat/doctype/chat_message/chat_message.json
+msgctxt "Chat Message"
+msgid "Room"
+msgstr ""
+
+#. DocType: Chat Room:1
+#: public/js/components/chat_add_room.js:34
+msgid "Room Name"
+msgstr ""
+
+#. Label of a Data field in DocType 'Chat Room'
+#: frappe_chat/doctype/chat_room/chat_room.json
+msgctxt "Chat Room"
+msgid "Room Name"
+msgstr ""
+
+#: public/js/components/chat_add_room.js:19
+msgid "Room Type"
+msgstr ""
+
+#: public/js/components/chat_user_settings.js:27
+msgid "Save"
+msgstr ""
+
+#: public/js/components/chat_list.js:49
+msgid "Search conversation"
+msgstr ""
+
+#. DocType: Chat Message:1
+msgid "Sender"
+msgstr ""
+
+#. Label of a Data field in DocType 'Chat Message'
+#: frappe_chat/doctype/chat_message/chat_message.json
+msgctxt "Chat Message"
+msgid "Sender"
+msgstr ""
+
+#. DocType: Chat Message:1
+msgid "Sender Email"
+msgstr ""
+
+#. Label of a Data field in DocType 'Chat Message'
+#: frappe_chat/doctype/chat_message/chat_message.json
+msgctxt "Chat Message"
+msgid "Sender Email"
+msgstr ""
+
+#: public/js/components/chat_form.js:38
+msgid "Share your queries or comments here."
+msgstr ""
+
+#: public/js/components/chat_bubble.js:10
+msgid "Show Chats"
+msgstr ""
+
+#: public/js/components/chat_list.js:69 public/js/components/chat_space.js:71
+#: public/js/components/chat_utils.js:84
+msgid "Something went wrong. Please refresh and try again."
+msgstr ""
+
+#: public/js/components/chat_welcome_screen.js:46
+msgid "Start Conversation"
+msgstr ""
+
+#. DocType: Chat Settings:1
+msgid "Start Time"
+msgstr ""
+
+#. Label of a Time field in DocType 'Chat Settings'
+#: frappe_chat/doctype/chat_settings/chat_settings.json
+msgctxt "Chat Settings"
+msgid "Start Time"
+msgstr ""
+
+#: public/js/components/chat_form.js:57
+msgid "Submit"
+msgstr ""
+
+#. Name of a role
+#. DocType: Chat Message:1
+#: frappe_chat/doctype/chat_message/chat_message.json
+#: frappe_chat/doctype/chat_profile/chat_profile.json
+#: frappe_chat/doctype/chat_room/chat_room.json
+#: frappe_chat/doctype/chat_settings/chat_settings.json
+#: frappe_chat/doctype/chat_user_settings/chat_user_settings.json
+msgid "System Manager"
+msgstr ""
+
+#. DocType: Chat Profile:1
+msgid "Token"
+msgstr ""
+
+#. Label of a Data field in DocType 'Chat Profile'
+#: frappe_chat/doctype/chat_profile/chat_profile.json
+msgctxt "Chat Profile"
+msgid "Token"
+msgstr ""
+
+#. DocType: Chat Room:1
+msgid "Type"
+msgstr ""
+
+#. Label of a Select field in DocType 'Chat Room'
+#: frappe_chat/doctype/chat_room/chat_room.json
+msgctxt "Chat Room"
+msgid "Type"
+msgstr ""
+
+#: public/js/components/chat_space.js:152
+msgid "Type message"
+msgstr ""
+
+#: public/js/components/chat_form.js:28
+#: public/js/components/chat_welcome_screen.js:37
+msgid "Typically replies in a few hours"
+msgstr ""
+
+#: public/js/components/chat_space.js:52
+msgid "Typing..."
+msgstr ""
+
+#. DocType: Chat Room User:1
+#: public/js/components/chat_add_room.js:49
+msgid "User"
+msgstr ""
+
+#. Label of a Link field in DocType 'Chat Room User'
+#: frappe_chat/doctype/chat_room_user/chat_room_user.json
+msgctxt "Chat Room User"
+msgid "User"
+msgstr ""
+
+#. Label of a Link field in DocType 'Chat User Settings'
+#: frappe_chat/doctype/chat_user_settings/chat_user_settings.json
+msgctxt "Chat User Settings"
+msgid "User"
+msgstr ""
+
+#. DocType: Chat Room:1
+#: public/js/components/chat_add_room.js:41
+msgid "Users"
+msgstr ""
+
+#. Label of a Table MultiSelect field in DocType 'Chat Room'
+#: frappe_chat/doctype/chat_room/chat_room.json
+msgctxt "Chat Room"
+msgid "Users"
+msgstr ""
+
+#: public/js/components/chat_welcome_screen.js:33
+msgid "We are offline"
+msgstr ""
+
+#: public/js/components/chat_welcome_screen.js:32
+msgid "We are online"
+msgstr ""
+
+#: public/js/components/chat_welcome_screen.js:24
+msgid "We make it simple to connect with us."
+msgstr ""
+
+#: public/js/components/chat_form.js:64
+#: public/js/components/chat_welcome_screen.js:49
+msgid "⚡ Powered by Frappe"
+msgstr ""
+
